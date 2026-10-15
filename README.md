@@ -5,8 +5,6 @@
 <!-- Self-contained SMIL/CSS animated SVGs (840x880 aligned)   -->
 <!-- ======================================================== -->
 
-<h3><code>aagam@github ~ $ whoami</code></h3>
-
 <table>
   <tr>
     <td valign="top"><img src="./aagam-ascii.svg" width="420" alt="Aagam Mehta — Terminal ASCII Portrait" /></td>
@@ -21,8 +19,6 @@
 <!-- 2. CONTRIBUTIONS: LIVE ANIMATED CONTRIBUTION HEATMAP      -->
 <!-- Auto-refreshed daily via GitHub Actions                   -->
 <!-- ======================================================== -->
-
-<h3><code>aagam@github ~ $ ./contributions.sh</code></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aagambot/Aagambot/output/github-contribution-grid-snake-dark.svg">
