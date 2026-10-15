@@ -24,7 +24,11 @@
 
 <h3><code>aagam@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Aagam's GitHub contribution graph — auto-refreshed daily" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aagambot/Aagambot/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aagambot/Aagambot/output/github-contribution-grid-snake.svg">
+  <img alt="Aagam's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Aagambot/Aagambot/output/github-contribution-grid-snake-dark.svg" width="860" />
+</picture>
 
 <br>
 <br>

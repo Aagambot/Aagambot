@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake & Refresh Stats
 
 on:
   schedule:
@@ -8,12 +8,34 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Refresh contribution stats
+        run: |
+          python scripts/fetch_contributions.py
+          python scripts/render_stats_svg.py
+
+      - name: Commit updated stats
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh profile stats [skip ci]"
+          file_pattern: "data/contributions.json stats.svg"
 
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
