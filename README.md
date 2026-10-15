@@ -72,8 +72,8 @@ RETURN dev.role, dev.status, core.knowledge_graphs, core.agentic_systems
 
 <h3><code>aagam@github ~ $ ./links.sh</code></h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aagam--mehta-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff0)](https://linkedin.com/in/aagam-mehta)
-[![Email](https://img.shields.io/badge/Email-Aagambot372%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ff006e)](mailto:Aagambot372@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aagammehta45-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff0)](https://www.linkedin.com/in/aagammehta45)
+[![Email](https://img.shields.io/badge/Email-aagammehta372%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ff006e)](mailto:aagammehta372@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Aagambot-0d1117?style=for-the-badge&logo=github&logoColor=39d353)](https://github.com/Aagambot)
 
 <br><br>
