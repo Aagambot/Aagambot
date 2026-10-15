@@ -129,19 +129,19 @@ RETURN dev.role, dev.location, dev.status
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AagamMehta&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00fff0&title_color=00fff0&icon_color=A63C06&text_color=ffffff&hide_border=false&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aagambot&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00fff0&title_color=00fff0&icon_color=A63C06&text_color=ffffff&hide_border=false&count_private=true" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AagamMehta&layout=donut&bg_color=0a0a0a&border_color=00fff0&title_color=00fff0&text_color=ffffff&hide_border=false&langs_count=8&hide=html" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aagambot&layout=donut&bg_color=0a0a0a&border_color=00fff0&title_color=00fff0&text_color=ffffff&hide_border=false&langs_count=8&hide=html" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AagamMehta&theme=dark&background=0a0a0a&border=00fff0&stroke=A63C06&ring=ff006e&fire=ff006e&currStreakNum=00fff0&sideNums=00fff0&currStreakLabel=A63C06&sideLabels=ffffff&dates=888888" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aagambot&theme=dark&background=0a0a0a&border=00fff0&stroke=A63C06&ring=ff006e&fire=ff006e&currStreakNum=00fff0&sideNums=00fff0&currStreakLabel=A63C06&sideLabels=ffffff&dates=888888" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AagamMehta&bg_color=0a0a0a&color=00fff0&line=A63C06&point=ff006e&area=true&area_color=A63C06&hide_border=false&border_color=00fff0&radius=8&title_color=00fff0" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aagambot&bg_color=0a0a0a&color=00fff0&line=A63C06&point=ff006e&area=true&area_color=A63C06&hide_border=false&border_color=00fff0&radius=8&title_color=00fff0" />
 
 </div>
 
@@ -179,8 +179,8 @@ def aagam_random_facts() -> list[str]:
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff0?style=for-the-badge&logo=linkedin&logoColor=0a0a0a)](https://linkedin.com/in/aagam-mehta)
-[![Gmail](https://img.shields.io/badge/Email-ff006e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aagammehta372@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-A63C06?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AagamMehta)
+[![Gmail](https://img.shields.io/badge/Email-ff006e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Aagambot372@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-A63C06?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aagambot)
 
 <br/>
 
@@ -194,6 +194,6 @@ def aagam_random_facts() -> list[str]:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:A63C06,100:00fff0&height=120&section=footer&animation=twinkling" />
 
-<img src="https://komarev.com/ghpvc/?username=AagamMehta&style=for-the-badge&color=00fff0&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Aagambot&style=for-the-badge&color=00fff0&label=PROFILE+VIEWS" />
 
 </div>
