@@ -124,50 +124,6 @@ RETURN dev.role, dev.location, dev.status
 
 <div align="center">
 
-## `> WORK EXPERIENCE // FIELD LOG`
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  [AI INTERN]        PearlThoughts        Dec 2025 – Present  │
-│  • Building Graph RAG systems & Multi-Agent LLM workflows   │
-└──────────────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────────────┐
-│  [DEVOPS INTERN]    HEProAI              Oct 2025 – Dec 2025 │
-│  • Automated CI/CD, containerized microservices, AWS infra   │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-## `> FUN FACTS // RANDOM SEED`
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-```python
-def aagam_random_facts() -> list[str]:
-    return [
-        "🕸️ I think in graphs — everything is nodes & relationships",
-        "☕ Debugging at 2 AM fueled coffee",
-        "🤖 I automate boring things so I can do more interesting boring things",
-        "📡 My vector embeddings are closer to production than my sleep schedule",
-        "🧩 I genuinely enjoy reading system design papers for fun",
-        "🔁 Graph traversal is just life with better syntax",
-    ]
-```
-
----
-
-<div align="center">
-
 ## `> CONNECT // OPEN CHANNELS`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
