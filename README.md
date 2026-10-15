@@ -1,19 +1,7 @@
 <div align="center">
 
 <!-- ======================================================== -->
-<!-- 1. LIVE ANIMATED CONTRIBUTION HEATMAP                     -->
-<!-- Auto-refreshed daily via GitHub Actions (.github/...)     -->
-<!-- ======================================================== -->
-
-<h3><code>aagam@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Aagam's GitHub contribution graph — auto-refreshed daily" />
-
-<br>
-<br>
-
-<!-- ======================================================== -->
-<!-- 2. ASCII PORTRAIT (LEFT) + REAL-TIME STATS CARD (RIGHT)   -->
+<!-- 1. WHOAMI: ASCII PORTRAIT (LEFT) + REAL-TIME STATS CARD   -->
 <!-- Self-contained SMIL/CSS animated SVGs (840x880 aligned)   -->
 <!-- ======================================================== -->
 
@@ -30,64 +18,174 @@
 <br>
 
 <!-- ======================================================== -->
-<!-- 3. CYPHER QUERY // SIGNATURE PROFILE TERMINAL             -->
+<!-- 2. CONTRIBUTIONS: LIVE ANIMATED CONTRIBUTION HEATMAP      -->
+<!-- Auto-refreshed daily via GitHub Actions                   -->
 <!-- ======================================================== -->
 
-<h3><code>aagam@github ~ $ ./cypher-query.sh</code></h3>
+<h3><code>aagam@github ~ $ ./contributions.sh</code></h3>
 
-<p><b>AI Engineer · Graph Intelligence · Multi-Agent &amp; Production RAG Systems</b></p>
-<p>DJSCE Mumbai — B.Tech AI &amp; Data Science &nbsp;·&nbsp; AI Intern @ PearlThoughts</p>
-
-<img src="./cypher.svg" width="860" alt="Aagam's Neo4j Cypher Profile Terminal" />
+<img src="./contrib-heatmap.svg" width="860" alt="Aagam's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<!-- ======================================================== -->
-<!-- 4. CORE TECH STACK                                        -->
-<!-- ======================================================== -->
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3><code>aagam@github ~ $ ./stack.sh</code></h3>
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00fff0" />
-  <img src="https://img.shields.io/badge/Neo4j-0d1117?style=for-the-badge&logo=neo4j&logoColor=00fff0" />
-  <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00fff0" />
-  <img src="https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=python&logoColor=ff006e" />
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00fff0" />
+---
+
+## `> SYSTEM PROFILE`
+
+```cypher
+MATCH (dev:Engineer {name: "Aagam Mehta"})
+RETURN dev.role, dev.location, dev.status
+```
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  NODE: Aagam Mehta                                           ║
+║  CLASS: AI Engineer + Freelancer                             ║
+║  UNIVERSITY: DJSCE Mumbai — B.Tech AI & Data Science         ║
+║  STATUS: [ACTIVE] Building, Shipping, Learning               ║
+║  SPECIALIZATION: Graph Intelligence • RAG • System Design    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+- 🧠 **AI Engineer** with deep experience in **Knowledge Graphs**, **LLM Orchestration**, and **RAG pipelines**
+- 🕸️ Obsessed with **System Design** and **Graph-Oriented Databases** (Neo4j is home)
+- ☁️ Built serverless architectures on **AWS** with **Terraform** and **Docker**
+- 🔁 Connecting code, data, and intelligence — one graph node at a time
+- 📍 Mumbai, India | 🎓 B.Tech AI & DS | 💼 Open to Freelance & Full-time Roles
+
+---
+
+<div align="center">
+
+## `> TECH STACK // NEURAL MODULES`
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+### ⚡ Languages & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-00fff0?style=for-the-badge&logo=python&logoColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/C++-A63C06?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ff006e?style=for-the-badge&logo=javascript&logoColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Cypher-00fff0?style=for-the-badge&logo=neo4j&logoColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/SQL-A63C06?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=f2cc60" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed" />
-  <img src="https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=844fba" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169e1" />
-  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599c" />
+
+### 🧬 AI / GenAI Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-00fff0?style=for-the-badge&logo=chainlink&logoColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/LangGraph-A63C06?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-ff006e?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-00fff0?style=for-the-badge&logo=huggingface&logoColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-A63C06?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent_Orchestration-ff006e?style=for-the-badge&logo=probot&logoColor=white" />
 </p>
 
-<br>
-
-<!-- ======================================================== -->
-<!-- 5. CONNECT & STATUS                                       -->
-<!-- ======================================================== -->
-
-<h3><code>aagam@github ~ $ ./links.sh</code></h3>
-
-<p>
-  <a href="https://www.linkedin.com/in/aagammehta45"><img src="https://img.shields.io/badge/LinkedIn-aagammehta45-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff0" /></a>
-  &nbsp;
-  <a href="mailto:aagammehta372@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-0d1117?style=for-the-badge&logo=gmail&logoColor=ff006e" /></a>
-  &nbsp;
-  <a href="https://github.com/Aagambot"><img src="https://img.shields.io/badge/GitHub-Aagambot-0d1117?style=for-the-badge&logo=github&logoColor=39d353" /></a>
+### 🕸️ Graph & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Neo4j-00fff0?style=for-the-badge&logo=neo4j&logoColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/PostgreSQL-A63C06?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-ff006e?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DB-00fff0?style=for-the-badge&logo=pinecone&logoColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-A63C06?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-ff006e?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<br>
-
-<p>
-  <code>STATUS: [ONLINE]</code> &nbsp;·&nbsp;
-  <code>OPEN TO: AI/ML ROLES &amp; FREELANCE</code> &nbsp;·&nbsp;
-  <code>MUMBAI, INDIA (UTC+5:30)</code>
+### 🖥️ Backend & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-00fff0?style=for-the-badge&logo=fastapi&logoColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Node.js-A63C06?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-ff006e?style=for-the-badge&logo=swagger&logoColor=white" />
 </p>
 
-<br>
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-00fff0?style=for-the-badge&logo=amazonaws&logoColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Docker-A63C06?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-ff006e?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-00fff0?style=for-the-badge&logo=githubactions&logoColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-A63C06?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_SQS-ff006e?style=for-the-badge&logo=amazonsqs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-00fff0?style=for-the-badge&logo=amazonaws&logoColor=0a0a0a" />
+</p>
+
+---
+
+<div align="center">
+
+## `> WORK EXPERIENCE // FIELD LOG`
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  [AI INTERN]        PearlThoughts        Dec 2025 – Present  │
+│  • Building Graph RAG systems & Multi-Agent LLM workflows   │
+└──────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────┐
+│  [DEVOPS INTERN]    HEProAI              Oct 2025 – Dec 2025 │
+│  • Automated CI/CD, containerized microservices, AWS infra   │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## `> FUN FACTS // RANDOM SEED`
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+```python
+def aagam_random_facts() -> list[str]:
+    return [
+        "🕸️ I think in graphs — everything is nodes & relationships",
+        "☕ Debugging at 2 AM fueled coffee",
+        "🤖 I automate boring things so I can do more interesting boring things",
+        "📡 My vector embeddings are closer to production than my sleep schedule",
+        "🧩 I genuinely enjoy reading system design papers for fun",
+        "🔁 Graph traversal is just life with better syntax",
+    ]
+```
+
+---
+
+<div align="center">
+
+## `> CONNECT // OPEN CHANNELS`
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff0?style=for-the-badge&logo=linkedin&logoColor=0a0a0a)](https://www.linkedin.com/in/aagammehta45)
+[![Gmail](https://img.shields.io/badge/Email-ff006e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aagammehta372@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-A63C06?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aagambot)
+
+<br/>
+
+```text
+> OPEN TO: Freelance Projects | AI/ML Internships | Full-Time Roles
+> RESPONSE TIME: < 24 hours
+> STATUS: [ONLINE] — Let's build something intelligent.
+```
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:A63C06,100:00fff0&height=120&section=footer&animation=twinkling" />
+
+<img src="https://komarev.com/ghpvc/?username=Aagambot&style=for-the-badge&color=00fff0&label=PROFILE+VIEWS" />
 
 </div>
